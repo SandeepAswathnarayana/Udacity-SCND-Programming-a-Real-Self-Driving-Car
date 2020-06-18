@@ -1,7 +1,7 @@
 # Final Project - System Integration
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-Note: The 8 major projects leading to this System Integration Final Capstone can be found under [this GitHub repository](https://github.com/SandeepAswathnarayana/self-driving-car-engineer-nd).  
+Note: Please find the 8 crucial projects leading to this 'System Integration Final Capstone' under [this GitHub repository](https://github.com/SandeepAswathnarayana/self-driving-car-engineer-nd).  
 
 Overview
 ---
