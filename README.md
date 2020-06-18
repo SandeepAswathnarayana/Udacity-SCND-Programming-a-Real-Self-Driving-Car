@@ -3,7 +3,7 @@
 
 **A Note To Readers**:  
 - Please find the 8 crucial projects leading to this 'System Integration Final Capstone' under [this GitHub repository](https://github.com/SandeepAswathnarayana/self-driving-car-engineer-nd).  
-- Given the time constraints and concrete schedule, I have given my best to learn, build the modules in implenting a working prototype and/or model. After having completed the SDC Nanodegree, I have kept myself occupied learning innovative approaches from the smartest minds in the field. And, I have only been altering my intuition for the better ever since.  
+- Given the time constraints and concrete schedule, I have given my best to learn, build the modules in implenting a working prototype and/or model. After having completed the SDC Nanodegree, I have kept myself occupied working towards applying innovative approaches following the works of some of the smartest minds in the field. And, I have only been altering my intuition for the better ever since.  
 - Should you have any inputs that you want to share with me (or) provide me with any relevant feedback on my projects or approach, I’d be glad to hear from you. Please feel free to connect with me on [Twitter](https://twitter.com/ThisIsSandeepA), [LinkedIn](https://www.linkedin.com/in/sandeep-a/), or follow me on [GitHub](https://github.com/SandeepAswathnarayana).  
 
 Overview
