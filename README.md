@@ -63,7 +63,7 @@ Once the information is processed by the perception system, Vehicle can use that
 **Control Subsystem**
 A software component to ensure that vehicle follows the path specified by planning subsystem
 
-## CARLAs System Architecture
+## CARLA's System Architecture
 
 The following is a system architecture diagram showing the ROS nodes and the topics used in the project. You can refer to the diagram throughout the project as needed.
 
@@ -71,7 +71,7 @@ The following is a system architecture diagram showing the ROS nodes and the top
 
 *Note: The obstacle detection node is not implemented for this project as there will be no obstacles around the test track*
 
-#### Brief Description on CARLAs Sytem Architecture
+#### Brief Description on CARLA's System Architecture
 
 #### Perception Subsystem
 This subsystem gathers data from the environment, processes them and sends information to further subsytems. It determines the state (i.e. red, green or yellow) of the closest traffic light, the closest waypoint from the traffic light and its stop line. Afterwards, it publishes the information to <ins>/obstacle_waypoints</ins> and <ins>/traffic_waypoints</ins> topic.
