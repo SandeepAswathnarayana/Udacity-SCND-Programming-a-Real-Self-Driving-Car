@@ -30,7 +30,7 @@ It detects traffic lights with a higher accuracy and responds to the traffic lig
 ![Test_gif](./imgs/Test_lot.gif)
 
 
-**For complete output video** : [google drive link](https://drive.google.com/open?id=1ifFeU0oQhCEMKcLRbA5EbZGz5JuvKoqD)
+**The complete output video can be found on**: [Google Drive](https://drive.google.com/open?id=1ifFeU0oQhCEMKcLRbA5EbZGz5JuvKoqD)
 
 
 ## Implementation Strategy
