@@ -48,9 +48,9 @@ For the implementation, functionality of the nodes, traffic light detector, clas
 
 ## Our Approach  
 **Approach:** I spearheaded a team of 4 (collaborating w/ Arun Sagar, Malith P. Ranaweera, and Shuang Li), each coming from a diverse background and experience, in programming a real self-driving car. We worked remotely over a span of close to 3 weeks while still managing our concrete schedules in different time zones. By collectively deciding and giving each one of us a role with reponsibilities, we made sure we met our deadlines by splitting up our tasks into milestones. We ensured every team member chipped in when a fellow peer had a hard time getting a way around their tasks, be it technical issues, code compiling, running tests, implementing modules, pair programming, model architecture and training, system integration, documentation.  
-**Key Takeaways:** The challenges of working on deploying a model into production. Needless to mention, we faced several bottlenecks and technical challenges throughout the course of time to have a working prototype and a successful simulation run.  
 **Tools & Methodology:** We predominantly used Slack for communication, project status, iteration updates, and group discussions. It goes without saying that Git Version Control proved to be a seamless transition from our local virtual machines and work spaces for implementing and incorporating each of our code.  
-**Project Status:** We haven't receive our code's performance on site due to unforeseen circumstances and the pandemic. We look forward to deploying our code into production and thereby see our code's performance on CARLA, real self-driving car inn Mountain View, CA, US.  
+**Key Takeaways:** The challenges of working on deploying a model into production. Needless to mention, we faced several bottlenecks and technical challenges throughout the course of time to have a working prototype and a successful simulation run.  
+**Project Status:** We are expecting our ROSbag files and logs to assess our code's performance on site. This has been put on hold due to uncertain times involving the COVID-19 pandemic. We look forward to deploying our code into production and thereby see our code's performance on CARLA, real self-driving car in Mountain View, CA, US.  
 
 ## Autonomous Vehicle Architecture
 
