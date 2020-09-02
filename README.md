@@ -46,7 +46,8 @@ For the implementation, functionality of the nodes, traffic light detector, clas
 | Arun Sagar | Member | Delhi, IND  | [Arun Sagar](https://www.linkedin.com/in/arun-sagar-a6b055aa/?originalSubdomain=in) |<asagar60@gmail.com> |
 | Shuang Li| Member | Chongqing, CHN |  [Shuang Li]( ) | <dz123456@vip.qq.com> |
 
-
+**Our Approach**  
+I spearheaded a team of 4 (collaborating w/ Arun Sagar, Malith P. Ranaweera, and Shuang Li), each coming from a diverse background and experience, in programming a real self-driving car. We worked remotely over a span of close to 3 weeks while still managing our concrete schedules in different time zones. By collectively deciding and giving each one of us a role with reponsibilities, we made sure we met our deadlines by splitting up our tasks into milestones. We made sure every team member chipped in when a fellow peer had a hard time getting a way around their tasks, be it technical issues, code compiling, running tests, implementing modules, pair programming, model architecture and training, system integration, documentation. We predominantly used Slack for communication, project status, iteration updates, and group discussions. It goes without saying that Git Version Control proved to be a seamless transition from our local virtual machines and work spaces for implementing and incorporating each of our code.  
 
 ## Autonomous Vehicle Architecture
 
