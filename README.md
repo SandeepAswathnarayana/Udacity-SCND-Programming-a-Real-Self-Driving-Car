@@ -23,7 +23,8 @@ It detects traffic lights with a higher accuracy and responds to the traffic lig
 
 **1. Output video for the simulator test track:**  
 
-![Output_gif](./imgs/output_video.gif)
+![Output_gif](./imgs/output_video.gif)  
+Note: The frame rate of the output has been increased to make sure 'the car responding to traffic lights' is captured within the length of this GIF version of the original output video.
 
 **2. Output video for the test lot:**  
 
