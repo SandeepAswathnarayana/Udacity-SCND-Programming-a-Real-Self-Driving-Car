@@ -89,7 +89,7 @@ This subsystem gathers data from the environment, processes them and sends infor
 
 **Traffic light Detection Node**
 
-This node takes in camera images and predicts the state of traffic light. We use a deep neural net with a pretrained FCNN to predict if upcoming traffic lights are red, green or yellow.
+This node takes in camera images and predicts the state of traffic light. We use a deep neural net with a pretrained Faster R-CNN to predict if upcoming traffic lights are red, green or yellow.
 
 #### Planning Subsystem
 
